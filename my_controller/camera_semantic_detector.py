@@ -6,6 +6,7 @@ Production-Grade Semantic Detection System for Autonomous Navigation
 - Detects: BLUE pillars, YELLOW pillars, GREEN poison, RED walls
 - START/BLUE/YELLOW/GREEN/RED waypoint management
 
+
 IMPORTANT UPDATE (pillar gating):
 - BLUE/YELLOW are NOT written to the semantic map until the pillar is "fully visible"
   (large bbox, near-bottom, not clipped at edges, reasonably centered).
