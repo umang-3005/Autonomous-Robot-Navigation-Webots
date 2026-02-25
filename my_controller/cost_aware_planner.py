@@ -11,7 +11,6 @@ import heapq
 import math
 import cv2
 
-
 def create_cost_map(
     occupancy_grid,
     unknown_as_obstacle=True,
