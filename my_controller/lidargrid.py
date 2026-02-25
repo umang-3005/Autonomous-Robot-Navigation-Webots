@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import math
-from POSE import *                         # GetPose helper
+from POSE import *                         
 import threading
 
 # ─────────────────────────────────────────────────────────────────────────────
