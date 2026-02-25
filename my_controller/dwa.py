@@ -1,4 +1,4 @@
-# dwa.py  (UPDATED: obstacle-aware DWA using LiDAR point obstacles)
+# dwa.py  (obstacle-aware DWA using LiDAR point obstacles)
 
 import math
 import numpy as np
