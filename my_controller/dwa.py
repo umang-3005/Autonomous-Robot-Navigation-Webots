@@ -3,7 +3,6 @@
 import math
 import numpy as np
 
-
 class DynamicWindowPlanner:
     def __init__(self, config):
         self.cfg = config
