@@ -1,7 +1,6 @@
 # rosbor_python.py
 
 
-
 """
 Complete Fully Automated Semantic Navigation System
 Mission: START → BLUE pillar → YELLOW pillar
