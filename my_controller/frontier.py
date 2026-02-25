@@ -4,7 +4,6 @@ import cv2
 
 class FrontierAnalyzer:
     """Compute and display frontier lines on a `LidarMap` grid."""
-
     def __init__(self, lidar_map, *, min_frontier_cells: int = 2, seed: int = 42):
         self.map = lidar_map
         self.min_frontier_cells = int(min_frontier_cells)
