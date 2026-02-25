@@ -13,7 +13,6 @@ This repository contains a complete Webots controller that autonomously explores
 
 Place these files inside your Webots controller folder, e.g.:
 
-
 **Entry point:** `my_controller.py` (creates `RosbotAutonomousNavigator` and runs it). 
 
 ---
